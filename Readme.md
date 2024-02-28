@@ -177,6 +177,7 @@ The exploit not only manipulated MogamBro's secret but also tried to establish a
 Экспортнем обьекты, чтобы навести порядка
 
 ![ScreenShot](screenshots/14.png)
+
 Видим текст/css, поехали смотерть что там
 
 ![ScreenShot](screenshots/15.png)

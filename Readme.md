@@ -128,7 +128,7 @@ Now that you know the CVE, figure out how the attacker crafted the payload & exe
 
 ![ScreenShot](screenshots/21.png)
 
-Откроем раскомпилированый файл
+Откроем декомпилированый файл
 ![ScreenShot](screenshots/22.png)
 
 Судя по тому что в нем содержится, шифровался secret при помощи AES, вектором инициализации являлась фраза urfuckedmogambro, а ключ был временным файлом длинной 32 байта. 
